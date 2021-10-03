@@ -1,0 +1,16 @@
+{
+    "name": "markusbrendler/cibackend",
+    "autoload": {
+        "psr-4": {
+            "Markusbrendler\\Cibackend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Markus Brendler",
+            "email": "markus.brendler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
